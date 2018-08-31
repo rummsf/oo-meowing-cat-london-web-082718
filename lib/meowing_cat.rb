@@ -6,5 +6,5 @@ def meow= (meow)
   @meow = meow
 end 
 
-def meow (meow)
+def meow
   @meow
