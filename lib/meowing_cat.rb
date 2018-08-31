@@ -7,6 +7,6 @@ end
 
 def meow
   @meow
-end
 puts "meow"
+end
 end 
