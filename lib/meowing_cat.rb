@@ -8,3 +8,4 @@ end
 
 def meow
   @meow
+end
